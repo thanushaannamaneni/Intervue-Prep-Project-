@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "question": "What is JavaScript?"
+  },
+  {
+    "id": 2,
+    "question": "What is React used for?"
+  },
+  {
+    "id": 3,
+    "question": "Explain Node.js event-driven architecture."
+  },
+  {
+    "id": 4,
+    "question": "What is Express.js?"
+  }
+]
