@@ -1,0 +1,21 @@
+body {
+  font-family: Arial, sans-serif;
+  background: #eeeeee;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  width: 90%;
+  max-width: 800px;
+  margin: 40px auto;
+  padding: 24px;
+  background: #ffffff;
+  border-radius: 8px;
+  box-shadow: 0 4px 15px rgba(0,0,0,0.1);
+}
+
+li {
+  padding: 6px 0;
+  font-size: 18px;
+}
